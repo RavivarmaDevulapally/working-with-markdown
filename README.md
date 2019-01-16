@@ -89,6 +89,8 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 ```DOS
 Change made
 ```
+## My upload of pic
+![Mypage](https://www.internationalstudent.com/uploads/school-search/images/live/2022/school/20170804163904_1.jpg "Northwest Missouri Bell Tower")
 
 ## Learn More
 
