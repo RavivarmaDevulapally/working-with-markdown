@@ -93,7 +93,7 @@ Added a list
 Uploaded a picture 
 ```
 
-### List Updated
+### List made by me
 1. My Name is Rajender Ravi Varma Devulapally
 1. I prefer to be called as Ravi Varma Devulapally
 1. Am from Warangal, Telangana State, India
