@@ -5,6 +5,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 - [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
 - [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [My Github Profile](https://github.com/RavivarmaDevulapally"Github Profile Page")
 
 ## Getting Started
 
@@ -87,9 +88,17 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 ### Changes made
 
 ```DOS
-Change made
+Added a link to my Github Profile
+Added a list
+Uploaded a picture 
 ```
-## My upload of pic
+
+### List Updated
+1. My Name is Rajender Ravi Varma Devulapally
+1. I prefer to be called as Ravi Varma Devulapally
+1. Am from Warangal, Telangana State, India
+
+### My upload of pic
 ![Mypage](https://www.internationalstudent.com/uploads/school-search/images/live/2022/school/20170804163904_1.jpg "Northwest Missouri Bell Tower")
 
 ## Learn More
